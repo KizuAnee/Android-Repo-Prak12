@@ -1,0 +1,14 @@
+<resources>
+    <!-- Existing strings -->
+    <string name="app_name">Activity Manager</string>
+    <string name="add_activity">Add New Activity</string>
+    <string name="title">Title</string>
+    <string name="description">Deskripsi</string>
+    <string name="date">Tanggal</string>
+    <string name="time">Time</string>
+    <string name="reminder_before">Reminder (menit sebelum)</string>
+    <string name="save">Simpan</string>
+    <string name="delete">Hapus</string>
+    <string name="cancel">Batal</string>
+    <string name="share">Share</string>
+</resources>
