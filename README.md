@@ -85,16 +85,18 @@ Untuk menjalankan proyek ini di lingkungan pengembangan lokal Anda:
 1.  **Clone Repositori:**
     ```bash
     git clone [https://github.com/KizuAnee/Android-Repo-Prak12.git](https://github.com/KizuAnee/Android-Repo-Prak12.git)
+    ```
+
+    ```bash
     cd Android-Repo-Prak12
     ```
-    *Catatan: Anda telah menyertakan `/tree/master` di URL clone Anda, yang tidak diperlukan saat meng-clone seluruh repositori. Cukup gunakan URL dasar repositori.*
 
-2.  **Buka di Android Studio:**
+1.  **Buka di Android Studio:**
     * Buka Android Studio.
     * Pilih `File > Open`, lalu navigasikan ke folder `Android-Repo-Prak12` yang baru saja Anda clone.
     * Tunggu hingga Android Studio selesai menyinkronkan proyek dan mengunduh dependensi yang diperlukan.
 
-3.  **Jalankan Aplikasi:**
+2.  **Jalankan Aplikasi:**
     * Hubungkan perangkat Android Anda atau mulai emulator.
     * Klik tombol `Run` (ikon segitiga hijau) di toolbar Android Studio.
 
