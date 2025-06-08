@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="input_field_height">56dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="corner_radius">12dp</dimen>
+</resources>

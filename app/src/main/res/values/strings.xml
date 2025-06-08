@@ -11,4 +11,7 @@
     <string name="delete">Hapus</string>
     <string name="cancel">Batal</string>
     <string name="share">Share</string>
+    <string name="required_field">Required</string>
+    <string name="reminder_prefix">Remind me</string>
+    <string name="minutes">minutes</string>
 </resources>
