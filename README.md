@@ -17,7 +17,7 @@ Aplikasi manajemen tugas harian dengan autentikasi sidik jari dan sistem penging
 ## 🌟 Fitur Utama
 
 <div align="center">
-  <table>
+  <table style= background: #5e668d;>
     <tr>
       <td align="center">
         <img src="https://cdn-icons-png.flaticon.com/512/2889/2889676.png" width="80"><br>
